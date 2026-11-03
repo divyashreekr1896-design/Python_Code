@@ -1,0 +1,5 @@
+num=8
+if num%3==0 or num%4==0:
+    print("num is divisible by 3 and 4")
+else:
+    print("num is not divisible by 3 and 4")

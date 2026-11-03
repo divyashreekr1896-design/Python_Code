@@ -1,0 +1,10 @@
+a={0,1,'unocodemy',11,12.5,True,False}
+print(a)
+a.add(55)
+print(a)
+a.remove(11)
+print(a)
+a.discard(1)
+print(a)
+a.clear()
+print(a)
